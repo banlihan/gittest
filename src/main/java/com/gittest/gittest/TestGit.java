@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("master");
         System.out.println("hot-fox");
         System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
