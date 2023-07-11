@@ -11,5 +11,6 @@ public class TestGit {
         System.out.println("push test");
         System.out.println("ssh put");
         System.out.println("pull test");
+        System.out.println("push gitee");
     }
 }
